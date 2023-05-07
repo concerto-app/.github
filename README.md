@@ -1,2 +1,1 @@
-# .github
-concerto
+Nothing to see here
